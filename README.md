@@ -1,5 +1,6 @@
 Dilarang recode!
-bahan bahan
+
+Bahan bahan :
 
 pkg update && pkg upgrade
 
