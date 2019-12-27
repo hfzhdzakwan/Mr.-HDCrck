@@ -10,17 +10,11 @@ pkg install curl
 
 pkg install git
 
-pkg install ruby
-
-pkg install lolcat
-
-pkg install toilet
-
-pkg install figlet
-
 git clone https://github.com/hfzhdzakwan/Mr.-HDCrck
 
 cd Mr.-HDCrck
+
+chmod +x *
 
 python2 HDbrutefb
 
